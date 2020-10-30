@@ -30,7 +30,7 @@
     "tslib": "^2.0.0"
   },
   "dependencies": {
-    "intersection-observer": "0.7.0"
+    "intersection-observer": "0.11.0"
   },
   "schematics": "./schematics/collection.json",
   "sideEffects": false
